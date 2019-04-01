@@ -14,5 +14,3 @@ function pyramid(n){
     }
  
   }
-
-  console.log(pyramid(5))
